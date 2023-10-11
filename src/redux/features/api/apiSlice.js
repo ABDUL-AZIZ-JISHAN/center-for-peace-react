@@ -3,12 +3,12 @@ import {
     fetchBaseQuery
 } from '@reduxjs/toolkit/query/react'
 
-
+const apiUrl = process.env.REACT_APP_API_BASE_URL;
 
 const ApiSlice = createApi({
     reducerPath: "api",
     baseQuery: fetchBaseQuery({
-        baseUrl: process.env.REACT_APP_API_BASE_URL || "http://localhost:9000/"
+        baseUrl: apiUrl || "https://api-center-for-react.onrender.com"
     }),
     tagTypes: [],
     endpoints: () => ({})
