@@ -8,7 +8,7 @@ import {
 const ApiSlice = createApi({
     reducerPath: "api",
     baseQuery: fetchBaseQuery({
-        baseUrl: "http://localhost:9000/"
+        baseUrl: process.env.REACT_APP_API_BASE_URL || "http://localhost:9000/"
     }),
     tagTypes: [],
     endpoints: () => ({})
