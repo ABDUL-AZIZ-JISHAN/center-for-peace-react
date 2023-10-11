@@ -1,5 +1,5 @@
 import UseGetUser from '../hooks/useGetUser';
-import SignIn from '../pages/signin';
+import SignIn from '../pages/signIn';
 
 const PrivateRoute = ({children}) => {
     const user = UseGetUser();
