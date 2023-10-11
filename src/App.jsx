@@ -7,7 +7,7 @@ import Books from "./pages/books";
 import Periodicals from "./pages/periodicals";
 import BookDetails from "./pages/bookDetails";
 import PeriodicalsViewAll from "./pages/periodicalsViewAll";
-import SignIn from "./pages/signin";
+import SignIn from "./pages/signIn";
 import Register from "./pages/register";
 import UseGetUser from "./hooks/useGetUser";
 import Search from "./pages/search";
