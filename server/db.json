@@ -1,0 +1,350 @@
+{
+  "users": [
+    {
+      "email": "jishan@gmail.com",
+      "password": "$2a$10$jc0ENHHklh9J89dvgX.Zt.TSuGn/TySOBg5MMSRnY7SJkNUeXDx5y",
+      "name": "Abdul Aziz Jishan",
+      "id": 3
+    },
+    {
+      "email": "abdulazizjishan02@gmail.com",
+      "password": "$2a$10$OTh1WbMJiL4QTUJMxV8ECejHuF0X/OYCZEjsXeF8y6AyPRHmQErYW",
+      "name": "Abdul Aziz Jishan",
+      "id": 4
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "Discovering The Quran",
+      "published": "Feb 9, 2023",
+      "words": "130k",
+      "hours": "12.5",
+      "pages": 560,
+      "languages": [
+        "Arabic",
+        "English",
+        "Urdu"
+      ],
+      "categories": [
+        "Islamic History",
+        "Islamic Spirituality",
+        "Islam And The Modern Age",
+        "Religion And Science"
+      ],
+      "year": 2000,
+      "selection": "quran",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    },
+    {
+      "id": 2,
+      "name": "Words of the Prophet Muhammad",
+      "published": "June 9, 2020",
+      "words": "150k",
+      "hours": "15",
+      "pages": 1060,
+      "languages": [
+        "Arabic",
+        "English",
+        "Spanish"
+      ],
+      "categories": [
+        "Islamic History",
+        "Islamic Spirituality",
+        "Religion And Science",
+        "True Face Of Islam"
+      ],
+      "year": 1998,
+      "selection": "hadith",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    },
+    {
+      "id": 3,
+      "name": "WOMEN IN ISLAMIC SHARI’AH",
+      "published": "May 15, 2019",
+      "words": "120k",
+      "hours": "11.5",
+      "pages": 720,
+      "languages": [
+        "Urdu",
+        "Spanish",
+        "Bangla"
+      ],
+      "categories": [
+        "Islamic History",
+        "Islamic Spirituality",
+        "Peace In Islam",
+        "True Face Of Islam"
+      ],
+      "year": 2003,
+      "selection": "fiqh",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    },
+    {
+      "id": 4,
+      "name": "THE TEACHINGS OF ISLAM",
+      "published": "Dec 20, 2018",
+      "words": "140k",
+      "hours": "13",
+      "pages": 890,
+      "languages": [
+        "English",
+        "Urdu",
+        "Bangla"
+      ],
+      "categories": [
+        "Islamic History",
+        "Islamic Spirituality",
+        "Islam And The Modern Age",
+        "Peace In Islam"
+      ],
+      "year": 1999,
+      "selection": "fiqh",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    },
+    {
+      "id": 5,
+      "name": "THE WAY TO FIND GOD",
+      "published": "Aug 2, 2017",
+      "words": "110k",
+      "hours": "10.5",
+      "pages": 630,
+      "languages": [
+        "Arabic",
+        "English",
+        "Spanish"
+      ],
+      "categories": [
+        "Islamic Spirituality",
+        "Religion And Science",
+        "Peace In Islam",
+        "True Face Of Islam"
+      ],
+      "year": 2012,
+      "selection": "quran",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    },
+    {
+      "id": 6,
+      "name": "UNIFORM CIVIL CODE",
+      "published": "Jan 10, 2016",
+      "words": "95k",
+      "hours": "9",
+      "pages": 480,
+      "languages": [
+        "English",
+        "Urdu",
+        "Spanish"
+      ],
+      "categories": [
+        "Islamic History",
+        "Islamic Spirituality",
+        "Peace In Islam",
+        "True Face Of Islam"
+      ],
+      "year": 2018,
+      "selection": "quran",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    },
+    {
+      "id": 7,
+      "name": "THE SEEKER’S GUIDE",
+      "published": "Sep 5, 2015",
+      "words": "125k",
+      "hours": "12",
+      "pages": 720,
+      "languages": [
+        "Arabic",
+        "Urdu",
+        "Bangla"
+      ],
+      "categories": [
+        "Islamic History",
+        "Islamic Spirituality",
+        "Islam And The Modern Age",
+        "Peace In Islam"
+      ],
+      "year": 2015,
+      "selection": "quran",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    },
+    {
+      "id": 8,
+      "name": "SPIRIT OF RAMADAN",
+      "published": "Mar 12, 2014",
+      "words": "135k",
+      "hours": "13.5",
+      "pages": 800,
+      "languages": [
+        "Arabic",
+        "English",
+        "Spanish"
+      ],
+      "categories": [
+        "Islamic Spirituality",
+        "Islam And The Modern Age",
+        "Religion And Science",
+        "True Face Of Islam"
+      ],
+      "year": 2005,
+      "selection": "quran",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    },
+    {
+      "id": 9,
+      "name": "REIAZLIATION OF GOD",
+      "published": "Nov 7, 2013",
+      "words": "115k",
+      "hours": "11",
+      "pages": 670,
+      "languages": [
+        "English",
+        "Urdu",
+        "Bangla"
+      ],
+      "categories": [
+        "Islamic History",
+        "Islamic Spirituality",
+        "Peace In Islam",
+        "True Face Of Islam"
+      ],
+      "year": 2023,
+      "selection": "quran",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    },
+    {
+      "id": 10,
+      "name": "100 PRINCIPLES FOR PURPOSEFUL",
+      "published": "Jul 15, 2012",
+      "words": "125k",
+      "hours": "12",
+      "pages": 710,
+      "languages": [
+        "Arabic",
+        "Urdu",
+        "Bangla"
+      ],
+      "categories": [
+        "Islamic History",
+        "Islamic Spirituality",
+        "Religion And Science",
+        "True Face Of Islam"
+      ],
+      "year": 2007,
+      "selection": "quran",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    },
+    {
+      "id": 11,
+      "name": "Discovered The Quran",
+      "published": "Feb 9, 2023",
+      "words": "130k",
+      "hours": "12.5",
+      "pages": 560,
+      "languages": [
+        "Arabic",
+        "English",
+        "Urdu"
+      ],
+      "categories": [
+        "Islamic History",
+        "Islamic Spirituality",
+        "Islam And The Modern Age",
+        "Religion And Science"
+      ],
+      "year": 2011,
+      "selection": "quran",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    },
+    {
+      "id": 12,
+      "name": "Dawah made simple",
+      "published": "Apr 25, 2011",
+      "words": "105k",
+      "hours": "10",
+      "pages": 590,
+      "languages": [
+        "English",
+        "Urdu",
+        "Spanish"
+      ],
+      "categories": [
+        "Islamic History",
+        "Islamic Spirituality",
+        "Islam And The Modern Age",
+        "Religion And Science"
+      ],
+      "year": 2002,
+      "selection": "hadith",
+      "bio": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, unde explicabo fugit cupiditate obcaecati velit reprehenderit iure nisi error veritatis!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus et eius ut vel error deserunt! Odit maxime hic commodi, vero iste illum repellat perspiciatis! Delectus earum expedita porro aliquid rerum dicta quam tempore possimus consequuntur, omnis pariatur velit sint dolorem numquam repellat accusamus saepe labore ratione? Numquam enim voluptate nam accusamus recusandae architecto ipsa consequatur rerum, et soluta molestiae sapiente porro aut cupiditate! Voluptatum voluptatem ea quaerat pariatur doloremque. Saepe illum atque vero ad quasi. Ipsum esse modi doloribus beatae dolorum fuga illum eius et animi nostrum, laborum omnis suscipit, neque sed est harum error dignissimos ullam non, delectus quae commodi. Repudiandae laboriosam aliquid at voluptatem praesentium laborum, animi tempora. Totam nemo commodi odit tempore consequatur est."
+    }
+  ],
+  "saved-books": [
+    {
+      "published": "May 15, 2019",
+      "student_id": 3,
+      "book_id": 2,
+      "name": "Words of the Prophet Muhammad",
+      "hours": "15",
+      "pages": 1060,
+      "id": 2
+    },
+    {
+      "student_id": 3,
+      "book_id": 2,
+      "name": "Words of the Prophet Muhammad",
+      "hours": "15",
+      "pages": 1060,
+      "published": "June 9, 2020",
+      "id": 3
+    },
+    {
+      "student_id": 3,
+      "book_id": 7,
+      "name": "THE SEEKER’S GUIDE",
+      "hours": "12",
+      "pages": 720,
+      "published": "Sep 5, 2015",
+      "id": 4
+    },
+    {
+      "student_id": 3,
+      "book_id": 11,
+      "name": "Discovered The Quran",
+      "hours": "12.5",
+      "pages": 560,
+      "published": "Feb 9, 2023",
+      "id": 5
+    },
+    {
+      "student_id": 3,
+      "book_id": 2,
+      "name": "Words of the Prophet Muhammad",
+      "hours": "15",
+      "pages": 1060,
+      "published": "June 9, 2020",
+      "id": 6
+    },
+    {
+      "student_id": 4,
+      "book_id": 1,
+      "name": "Discovering The Quran",
+      "hours": "12.5",
+      "pages": 560,
+      "published": "Feb 9, 2023",
+      "id": 7
+    }
+  ]
+}
