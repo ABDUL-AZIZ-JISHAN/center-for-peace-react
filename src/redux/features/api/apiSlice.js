@@ -8,7 +8,7 @@ const apiUrl = process.env.REACT_APP_API_BASE_URL;
 const ApiSlice = createApi({
     reducerPath: "api",
     baseQuery: fetchBaseQuery({
-        baseUrl: apiUrl || "https://api-center-for-react.onrender.com"
+        baseUrl: apiUrl || "http://localhost:8080" || "https://api-center-for-react.onrender.com"
     }),
     tagTypes: [],
     endpoints: () => ({})
